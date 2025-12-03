@@ -30,7 +30,7 @@
       "createdAt": "2025-11-30T05:18:03.059Z"
     }
   ],
-  "lastSynced": "2025-12-03T01:40:40.867Z",
+  "lastSynced": "2025-12-03T01:40:50.700Z",
   "memos": [
     {
       "title": "今日のメモ",
@@ -38,6 +38,22 @@
       "id": "93cbab42-acdc-4ed9-83c2-299c7b84753d",
       "createdAt": "2025-12-03T01:01:50.600Z",
       "updatedAt": "2025-12-03T01:02:00.896Z"
+    }
+  ],
+  "dailyRecords": [
+    {
+      "date": "2025-12-03",
+      "id": "d7fb0603-c50e-4c15-b058-ed3785fb09bb",
+      "createdAt": "2025-12-03T02:12:53.185Z",
+      "updatedAt": "2025-12-03T02:18:10.505Z",
+      "weight": 90,
+      "bedtime": "06:17",
+      "wakeTime": "14:17",
+      "sleepDuration": 500,
+      "breakfast": "いけあ",
+      "lunch": "おし",
+      "dinner": "しう",
+      "snack": "っか"
     }
   ]
 }
