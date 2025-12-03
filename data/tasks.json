@@ -12,6 +12,14 @@
       "endTime": "2025-12-03T01:00:00.000Z",
       "completedAt": "2025-12-03T00:37:00.395Z",
       "elapsedTime": 1440
+    },
+    {
+      "title": "おおおお",
+      "repeatPattern": "none",
+      "id": "d570ef44-d218-4560-a9c6-11e5c4cb4ecf",
+      "createdAt": "2025-12-03T00:47:09.254Z",
+      "updatedAt": "2025-12-03T00:47:09.254Z",
+      "order": 1
     }
   ],
   "categories": [
@@ -22,5 +30,5 @@
       "createdAt": "2025-11-30T05:18:03.059Z"
     }
   ],
-  "lastSynced": "2025-12-03T00:44:18.472Z"
+  "lastSynced": "2025-12-03T00:46:57.292Z"
 }
