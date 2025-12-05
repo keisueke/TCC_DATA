@@ -1,31 +1,7 @@
 {
-  "tasks": [
-    {
-      "title": "いい感じ",
-      "repeatPattern": "none",
-      "id": "bf4471db-9fea-488a-8992-14c57a60b94f",
-      "createdAt": "2025-12-03T00:36:53.865Z",
-      "updatedAt": "2025-12-03T00:37:17.836Z",
-      "order": 0,
-      "isRunning": false,
-      "startTime": "2025-12-03T00:36:00.000Z",
-      "endTime": "2025-12-03T01:00:00.000Z",
-      "completedAt": "2025-12-03T00:37:00.395Z",
-      "elapsedTime": 1440
-    },
-    {
-      "title": "おおおお",
-      "repeatPattern": "none",
-      "id": "d570ef44-d218-4560-a9c6-11e5c4cb4ecf",
-      "createdAt": "2025-12-03T00:47:09.254Z",
-      "updatedAt": "2025-12-04T08:26:35.002Z",
-      "order": 1,
-      "isRunning": false,
-      "startTime": "2025-12-04T08:26:00.000Z",
-      "endTime": "2025-12-04T08:32:00.000Z",
-      "completedAt": "2025-12-04T08:26:27.602Z",
-      "elapsedTime": 360
-    }
-  ],
+  "tasks": [],
+  "projects": [],
+  "modes": [],
+  "tags": [],
   "subTasks": []
 }
