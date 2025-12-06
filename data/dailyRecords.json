@@ -1,3 +1,15 @@
 {
-  "dailyRecords": []
+  "dailyRecords": [
+    {
+      "date": "2025-12-06",
+      "bedtime": "00:12",
+      "wakeTime": "08:37",
+      "sleepDuration": 483,
+      "dinner": "きのこスープ",
+      "id": "b6b64a15-0ad5-4a90-a888-ae3fc367c7e5",
+      "createdAt": "2025-12-06T10:11:40.383Z",
+      "updatedAt": "2025-12-06T10:18:33.175Z",
+      "weight": 90.6
+    }
+  ]
 }
