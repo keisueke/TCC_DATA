@@ -9,12 +9,12 @@
       "estimatedTime": 20,
       "id": "90c14176-8475-4b7b-8313-80618fbdd371",
       "createdAt": "2025-12-05T10:11:30.012Z",
-      "updatedAt": "2025-12-06T11:06:57.637Z",
+      "updatedAt": "2025-12-06T11:18:04.371Z",
       "order": 1,
       "tagIds": [
         "62bb55b8-6535-42d8-a441-00dc7cece512"
       ],
-      "showInRoutineChecker": true,
+      "showInRoutineChecker": false,
       "modeId": "607ab2c2-a029-41d6-add4-750befe75561"
     },
     {
@@ -26,7 +26,7 @@
       "estimatedTime": 30,
       "id": "1551dc29-56f8-49bf-a9b8-2254917a96f3",
       "createdAt": "2025-12-06T02:20:39.316Z",
-      "updatedAt": "2025-12-06T11:06:48.920Z",
+      "updatedAt": "2025-12-06T11:18:05.421Z",
       "order": 2,
       "tagIds": [
         "62bb55b8-6535-42d8-a441-00dc7cece512"
@@ -36,7 +36,8 @@
       "isRunning": false,
       "endTime": "2025-12-06T11:04:00.000Z",
       "completedAt": "2025-12-06T11:04:33.000Z",
-      "modeId": "607ab2c2-a029-41d6-add4-750befe75561"
+      "modeId": "607ab2c2-a029-41d6-add4-750befe75561",
+      "showInRoutineChecker": false
     },
     {
       "title": "朝準備",
@@ -104,5 +105,38 @@
       "createdAt": "2025-12-06T02:22:11.151Z"
     }
   ],
-  "subTasks": []
+  "subTasks": [
+    {
+      "taskId": "480304aa-d376-4be8-91b4-5404a96dce44",
+      "title": "髭剃り",
+      "order": 0,
+      "id": "b73779b5-0f6f-4430-ba8d-076496f07627",
+      "createdAt": "2025-12-06T11:18:17.906Z",
+      "updatedAt": "2025-12-06T11:18:17.906Z"
+    },
+    {
+      "taskId": "480304aa-d376-4be8-91b4-5404a96dce44",
+      "title": "洗顔",
+      "order": 1,
+      "id": "61ffa23c-0dea-42db-a719-32c2630e35b9",
+      "createdAt": "2025-12-06T11:18:35.924Z",
+      "updatedAt": "2025-12-06T11:18:35.924Z"
+    },
+    {
+      "taskId": "480304aa-d376-4be8-91b4-5404a96dce44",
+      "title": "歯磨き",
+      "order": 2,
+      "id": "dde2579f-865b-4709-82ac-d01e18ef85de",
+      "createdAt": "2025-12-06T11:18:41.638Z",
+      "updatedAt": "2025-12-06T11:18:41.638Z"
+    },
+    {
+      "taskId": "480304aa-d376-4be8-91b4-5404a96dce44",
+      "title": "着替え",
+      "order": 3,
+      "id": "7952a832-168d-423a-a122-399bb124f20a",
+      "createdAt": "2025-12-06T11:18:48.056Z",
+      "updatedAt": "2025-12-06T11:18:48.056Z"
+    }
+  ]
 }
