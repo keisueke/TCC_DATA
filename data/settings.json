@@ -1,1 +1,53 @@
-{}
+{
+  "theme": "dark",
+  "dashboardLayout": {
+    "widgets": [
+      {
+        "id": "stats-grid",
+        "order": 0,
+        "visible": true
+      },
+      {
+        "id": "weather-card",
+        "order": 1,
+        "visible": true
+      },
+      {
+        "id": "habit-tracker",
+        "order": 2,
+        "visible": true
+      },
+      {
+        "id": "daily-record-input",
+        "order": 3,
+        "visible": true
+      },
+      {
+        "id": "daily-reflection",
+        "order": 4,
+        "visible": true
+      },
+      {
+        "id": "time-summary",
+        "order": 5,
+        "visible": true
+      },
+      {
+        "id": "time-axis-chart",
+        "order": 6,
+        "visible": true
+      },
+      {
+        "id": "category-time-chart",
+        "order": 7,
+        "visible": true
+      },
+      {
+        "id": "daily-review",
+        "order": 8,
+        "visible": true
+      }
+    ]
+  },
+  "lastSynced": "2025-12-05T02:42:55.156Z"
+}
