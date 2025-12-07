@@ -1,162 +1,105 @@
 {
   "tasks": [
     {
-      "title": "風呂",
+      "title": "昼飯",
       "repeatPattern": "daily",
       "repeatConfig": {
         "interval": 1
       },
       "estimatedTime": 20,
-      "id": "90c14176-8475-4b7b-8313-80618fbdd371",
-      "createdAt": "2025-12-05T10:11:30.012Z",
-      "updatedAt": "2025-12-06T12:29:06.261Z",
-      "order": 1,
+      "id": "bb88ac82-c13f-49fa-9340-a236679fbb08",
+      "createdAt": "2025-12-07T04:05:54.112Z",
+      "updatedAt": "2025-12-07T09:05:28.634Z",
+      "order": 0,
       "tagIds": [
-        "62bb55b8-6535-42d8-a441-00dc7cece512"
+        "439b6db5-09f2-4302-b5cb-d29ee5529714"
       ],
-      "showInRoutineChecker": false,
-      "modeId": "607ab2c2-a029-41d6-add4-750befe75561",
+      "startTime": "2025-12-07T07:42:00.000Z",
+      "elapsedTime": 7201,
       "isRunning": false,
-      "startTime": "2025-12-06T11:30:00.000Z",
-      "endTime": "2025-12-06T12:00:00.000Z",
-      "completedAt": "2025-12-06T12:27:57.262Z",
-      "elapsedTime": 1800
+      "completedAt": "2025-12-07T07:42:49.340Z",
+      "endTime": "2025-12-07T07:42:00.000Z"
+    },
+    {
+      "title": "昼飯",
+      "tagIds": [
+        "439b6db5-09f2-4302-b5cb-d29ee5529714"
+      ],
+      "repeatPattern": "none",
+      "startTime": "2025-12-06T08:46:00.000Z",
+      "endTime": "2025-12-06T10:46:00.000Z",
+      "estimatedTime": 120,
+      "elapsedTime": 7200,
+      "id": "8aca4a85-de4a-4c5d-a8c8-8c9e672a8845",
+      "createdAt": "2025-12-06T08:46:31.991Z",
+      "updatedAt": "2025-12-07T08:47:56.814Z",
+      "order": 1,
+      "skippedAt": "2025-12-07T08:47:56.814Z"
     },
     {
       "title": "夕食",
-      "repeatPattern": "daily",
-      "repeatConfig": {
-        "interval": 1
-      },
-      "estimatedTime": 30,
-      "id": "1551dc29-56f8-49bf-a9b8-2254917a96f3",
-      "createdAt": "2025-12-06T02:20:39.316Z",
-      "updatedAt": "2025-12-06T12:29:06.262Z",
-      "order": 3,
       "tagIds": [
-        "62bb55b8-6535-42d8-a441-00dc7cece512"
-      ],
-      "startTime": "2025-12-06T11:04:00.000Z",
-      "elapsedTime": 900,
-      "isRunning": false,
-      "endTime": "2025-12-06T11:04:00.000Z",
-      "completedAt": "2025-12-06T11:04:33.000Z",
-      "modeId": "607ab2c2-a029-41d6-add4-750befe75561",
-      "showInRoutineChecker": false
-    },
-    {
-      "title": "朝準備",
-      "repeatPattern": "daily",
-      "estimatedTime": 10,
-      "id": "480304aa-d376-4be8-91b4-5404a96dce44",
-      "createdAt": "2025-12-06T09:41:26.760Z",
-      "updatedAt": "2025-12-06T12:29:06.261Z",
-      "order": 0,
-      "tagIds": [
-        "62bb55b8-6535-42d8-a441-00dc7cece512"
-      ],
-      "isRunning": false,
-      "startTime": "2025-12-06T01:00:00.000Z",
-      "endTime": "2025-12-06T01:10:00.000Z",
-      "completedAt": "2025-12-06T09:45:09.743Z",
-      "elapsedTime": 600,
-      "modeId": "607ab2c2-a029-41d6-add4-750befe75561",
-      "repeatConfig": {
-        "interval": 1
-      }
-    },
-    {
-      "title": "振り返り",
-      "modeId": "558c0bdc-ff7a-4327-9814-e685a597cae3",
-      "tagIds": [
-        "62bb55b8-6535-42d8-a441-00dc7cece512"
+        "439b6db5-09f2-4302-b5cb-d29ee5529714"
       ],
       "repeatPattern": "daily",
       "repeatConfig": {
         "interval": 1
       },
-      "id": "df39eb1e-f0f2-4d6c-8f52-3a9b6ed5e2a4",
-      "createdAt": "2025-12-06T12:28:59.897Z",
-      "updatedAt": "2025-12-06T12:29:06.261Z",
-      "order": 2
+      "startTime": "2025-12-07T08:49:00.000Z",
+      "estimatedTime": 20,
+      "elapsedTime": 360,
+      "id": "aa6d064f-d6e4-486d-b888-155b7ca8c96c",
+      "createdAt": "2025-12-06T17:49:17.948+09:00",
+      "updatedAt": "2025-12-07T09:05:33.000Z",
+      "order": 2,
+      "isRunning": false,
+      "endTime": "2025-12-07T08:55:00.000Z",
+      "completedAt": "2025-12-07T08:55:17.851Z"
     }
   ],
   "projects": [],
   "modes": [
     {
       "name": "リラックス",
-      "color": "#3B82F6",
-      "id": "607ab2c2-a029-41d6-add4-750befe75561",
-      "createdAt": "2025-12-06T11:05:03.726Z"
-    },
-    {
-      "name": "オーガナイズ",
-      "color": "#F97316",
-      "id": "558c0bdc-ff7a-4327-9814-e685a597cae3",
-      "createdAt": "2025-12-06T11:05:31.617Z"
+      "color": "#10B981",
+      "id": "5b67d437-77d7-4c81-a6b3-ea07957c9376",
+      "createdAt": "2025-12-07T09:06:30.827Z"
     },
     {
       "name": "イージー",
-      "color": "#10B981",
-      "id": "72592508-5b1b-469e-a222-d2e4d8eda580",
-      "createdAt": "2025-12-06T11:05:44.950Z"
+      "color": "#3B82F6",
+      "id": "33cbc880-b82a-4642-9b7d-2b01044684cf",
+      "createdAt": "2025-12-07T09:06:41.495Z"
     },
     {
       "name": "ハード",
       "color": "#EF4444",
-      "id": "5c99252e-3c30-4ce3-bbce-9f15b195cee2",
-      "createdAt": "2025-12-06T11:05:50.917Z"
+      "id": "0c81c159-5c7c-486b-b515-51beb93b39a0",
+      "createdAt": "2025-12-07T09:06:48.671Z"
+    },
+    {
+      "name": "オーガナイズ",
+      "color": "#F97316",
+      "id": "154f4d0e-f031-4640-8015-712fdf0b0118",
+      "createdAt": "2025-12-07T09:07:15.856Z"
     }
   ],
   "tags": [
     {
-      "name": "プライベート",
-      "id": "62bb55b8-6535-42d8-a441-00dc7cece512",
-      "createdAt": "2025-12-06T02:21:56.351Z"
-    },
-    {
       "name": "本業",
-      "id": "0490cdd9-d109-45c1-b59d-5ad496ddcbca",
-      "createdAt": "2025-12-06T02:22:04.151Z"
+      "id": "b7902fc0-cf47-4566-a342-c443aa0e7d20",
+      "createdAt": "2025-12-07T04:06:23.414Z"
     },
     {
       "name": "副業",
-      "id": "82041e12-4096-42d9-878f-7d7527413f86",
-      "createdAt": "2025-12-06T02:22:11.151Z"
+      "id": "ed41fca0-0c9b-4191-ae27-1b7a9460fb76",
+      "createdAt": "2025-12-07T04:06:29.113Z"
+    },
+    {
+      "name": "プライベート",
+      "id": "439b6db5-09f2-4302-b5cb-d29ee5529714",
+      "createdAt": "2025-12-07T04:06:34.880Z"
     }
   ],
-  "subTasks": [
-    {
-      "taskId": "480304aa-d376-4be8-91b4-5404a96dce44",
-      "title": "髭剃り",
-      "order": 0,
-      "id": "b73779b5-0f6f-4430-ba8d-076496f07627",
-      "createdAt": "2025-12-06T11:18:17.906Z",
-      "updatedAt": "2025-12-06T11:18:17.906Z"
-    },
-    {
-      "taskId": "480304aa-d376-4be8-91b4-5404a96dce44",
-      "title": "洗顔",
-      "order": 1,
-      "id": "61ffa23c-0dea-42db-a719-32c2630e35b9",
-      "createdAt": "2025-12-06T11:18:35.924Z",
-      "updatedAt": "2025-12-06T11:18:35.924Z"
-    },
-    {
-      "taskId": "480304aa-d376-4be8-91b4-5404a96dce44",
-      "title": "歯磨き",
-      "order": 2,
-      "id": "dde2579f-865b-4709-82ac-d01e18ef85de",
-      "createdAt": "2025-12-06T11:18:41.638Z",
-      "updatedAt": "2025-12-06T11:18:41.638Z"
-    },
-    {
-      "taskId": "480304aa-d376-4be8-91b4-5404a96dce44",
-      "title": "着替え",
-      "order": 3,
-      "id": "7952a832-168d-423a-a122-399bb124f20a",
-      "createdAt": "2025-12-06T11:18:48.056Z",
-      "updatedAt": "2025-12-06T11:18:48.056Z"
-    }
-  ]
+  "subTasks": []
 }
