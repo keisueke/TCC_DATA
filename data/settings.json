@@ -3,7 +3,7 @@
   "dashboardLayout": {
     "widgets": [
       {
-        "id": "stats-grid",
+        "id": "tasks-summary",
         "order": 0,
         "visible": true
       },
@@ -13,31 +13,30 @@
         "visible": true
       },
       {
-        "id": "habit-tracker",
+        "id": "routine-summary",
         "order": 2,
         "visible": true
       },
       {
-        "id": "daily-record-input",
+        "id": "habit-tracker",
         "order": 3,
         "visible": true
       },
       {
-        "id": "time-summary",
+        "id": "analyze-summary",
+        "order": 4,
+        "visible": true
+      },
+      {
+        "id": "daily-record-input",
         "order": 5,
         "visible": true
       },
       {
-        "id": "time-axis-chart",
+        "id": "daily-records-summary",
         "order": 6,
-        "visible": true
-      },
-      {
-        "id": "daily-review",
-        "order": 8,
         "visible": true
       }
     ]
-  },
-  "lastSynced": "2025-12-06T11:19:04.913Z"
+  }
 }
