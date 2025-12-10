@@ -9,16 +9,19 @@
       "estimatedTime": 20,
       "id": "bb88ac82-c13f-49fa-9340-a236679fbb08",
       "createdAt": "2025-12-07T04:05:54.112Z",
-      "updatedAt": "2025-12-07T09:05:28.634Z",
-      "order": 0,
+      "updatedAt": "2025-12-09T02:03:49.051Z",
+      "order": 2,
       "tagIds": [
         "439b6db5-09f2-4302-b5cb-d29ee5529714"
       ],
-      "startTime": "2025-12-07T07:42:00.000Z",
-      "elapsedTime": 7201,
+      "startTime": "2025-12-07T05:00:00.000Z",
+      "elapsedTime": 1800,
       "isRunning": false,
       "completedAt": "2025-12-07T07:42:49.340Z",
-      "endTime": "2025-12-07T07:42:00.000Z"
+      "endTime": "2025-12-07T05:30:00.000Z",
+      "modeId": "5b67d437-77d7-4c81-a6b3-ea07957c9376",
+      "timeSectionId": "work-0",
+      "showInRoutineChecker": false
     },
     {
       "title": "昼飯",
@@ -50,11 +53,79 @@
       "elapsedTime": 360,
       "id": "aa6d064f-d6e4-486d-b888-155b7ca8c96c",
       "createdAt": "2025-12-06T17:49:17.948+09:00",
-      "updatedAt": "2025-12-07T09:05:33.000Z",
-      "order": 2,
+      "updatedAt": "2025-12-09T02:04:55.432Z",
+      "order": 3,
       "isRunning": false,
       "endTime": "2025-12-07T08:55:00.000Z",
-      "completedAt": "2025-12-07T08:55:17.851Z"
+      "completedAt": "2025-12-07T08:55:17.851Z",
+      "modeId": "5b67d437-77d7-4c81-a6b3-ea07957c9376",
+      "showInRoutineChecker": false,
+      "timeSectionId": "evening-2"
+    },
+    {
+      "title": "朝食",
+      "modeId": "5b67d437-77d7-4c81-a6b3-ea07957c9376",
+      "repeatPattern": "daily",
+      "repeatConfig": {
+        "interval": 1
+      },
+      "estimatedTime": 30,
+      "id": "1d53e7ce-348c-4b47-b8e2-3f3dd6c6e0d8",
+      "createdAt": "2025-12-07T18:08:29.787+09:00",
+      "updatedAt": "2025-12-09T02:04:38.001Z",
+      "order": 1,
+      "tagIds": [
+        "439b6db5-09f2-4302-b5cb-d29ee5529714"
+      ],
+      "skippedAt": "2025-12-07T18:08:50.896+09:00",
+      "isRunning": false,
+      "startTime": "2025-12-07T00:30:00.000Z",
+      "completedAt": "2025-12-07T18:31:33.842+09:00",
+      "elapsedTime": 1800,
+      "timeSectionId": "morning-2",
+      "endTime": "2025-12-07T01:00:00.000Z",
+      "showInRoutineChecker": false
+    },
+    {
+      "title": "朝準備",
+      "modeId": "33cbc880-b82a-4642-9b7d-2b01044684cf",
+      "tagIds": [
+        "439b6db5-09f2-4302-b5cb-d29ee5529714"
+      ],
+      "repeatPattern": "daily",
+      "repeatConfig": {
+        "interval": 1
+      },
+      "estimatedTime": 10,
+      "timeSectionId": "morning-2",
+      "id": "6b8d7921-5024-40c0-a9c9-d990c5175389",
+      "createdAt": "2025-12-07T18:44:47.666+09:00",
+      "updatedAt": "2025-12-09T02:04:31.774Z",
+      "order": 0,
+      "skippedAt": "2025-12-07T18:44:55.507+09:00",
+      "isRunning": false,
+      "startTime": "2025-12-06T23:00:00.000Z",
+      "endTime": "2025-12-06T23:10:00.000Z",
+      "completedAt": "2025-12-07T18:44:59.663+09:00",
+      "elapsedTime": 600,
+      "showInRoutineChecker": true
+    },
+    {
+      "title": "風呂",
+      "modeId": "5b67d437-77d7-4c81-a6b3-ea07957c9376",
+      "tagIds": [
+        "439b6db5-09f2-4302-b5cb-d29ee5529714"
+      ],
+      "repeatPattern": "daily",
+      "repeatConfig": {
+        "interval": 1
+      },
+      "id": "8cc593fa-17a8-4c81-b6e7-1d567eda9c7c",
+      "createdAt": "2025-12-07T21:49:24.014+09:00",
+      "updatedAt": "2025-12-09T02:04:19.739Z",
+      "order": 4,
+      "timeSectionId": "evening-2",
+      "skippedAt": "2025-12-07T21:50:15.907+09:00"
     }
   ],
   "projects": [],
@@ -101,5 +172,38 @@
       "createdAt": "2025-12-07T04:06:34.880Z"
     }
   ],
-  "subTasks": []
+  "subTasks": [
+    {
+      "taskId": "6b8d7921-5024-40c0-a9c9-d990c5175389",
+      "title": "髭剃り",
+      "order": 0,
+      "id": "73601067-4917-4a59-b972-daf652d3e446",
+      "createdAt": "2025-12-07T10:27:26.916Z",
+      "updatedAt": "2025-12-07T10:27:26.916Z"
+    },
+    {
+      "taskId": "6b8d7921-5024-40c0-a9c9-d990c5175389",
+      "title": "洗顔",
+      "order": 1,
+      "id": "61b035a5-2afb-4557-96e2-2feb143c8d93",
+      "createdAt": "2025-12-07T10:27:43.754Z",
+      "updatedAt": "2025-12-07T10:27:43.754Z"
+    },
+    {
+      "taskId": "6b8d7921-5024-40c0-a9c9-d990c5175389",
+      "title": "歯磨き",
+      "order": 2,
+      "id": "85399f04-a9bf-4d97-9b01-81a819987454",
+      "createdAt": "2025-12-07T10:27:50.469Z",
+      "updatedAt": "2025-12-07T10:27:50.469Z"
+    },
+    {
+      "taskId": "6b8d7921-5024-40c0-a9c9-d990c5175389",
+      "title": "体重計測",
+      "order": 3,
+      "id": "555351cc-88c0-43c3-9aa7-03db7d24c825",
+      "createdAt": "2025-12-07T10:32:05.747Z",
+      "updatedAt": "2025-12-07T10:32:05.748Z"
+    }
+  ]
 }
