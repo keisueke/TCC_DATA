@@ -1,3 +1,11 @@
 {
-  "dailyRecords": []
+  "dailyRecords": [
+    {
+      "date": "2025-12-11",
+      "breakfast": "ごはん、納豆、目玉焼き",
+      "id": "be1a382e-790f-46f7-ad54-1ad8a2745e9d",
+      "createdAt": "2025-12-11T02:41:35.959Z",
+      "updatedAt": "2025-12-11T02:41:35.959Z"
+    }
+  ]
 }
