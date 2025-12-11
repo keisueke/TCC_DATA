@@ -85,11 +85,15 @@
       "time_section_id": null,
       "show_in_routine_checker": 1,
       "order": 1,
-      "updatedAt": "2025-12-11T02:42:37.438Z",
+      "updatedAt": "2025-12-11T02:43:34.262Z",
       "repeatPattern": "daily",
       "repeatConfig": {
         "interval": 1
-      }
+      },
+      "modeId": "5b67d437-77d7-4c81-a6b3-ea07957c9376",
+      "tagIds": [
+        "439b6db5-09f2-4302-b5cb-d29ee5529714"
+      ]
     },
     {
       "id": "aa6d064f-d6e4-486d-b888-155b7ca8c96c",
