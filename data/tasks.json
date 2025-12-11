@@ -3,7 +3,6 @@
     {
       "id": "8cc593fa-17a8-4c81-b6e7-1d567eda9c7c",
       "title": "風呂",
-      "description": null,
       "project_id": null,
       "mode_id": null,
       "tag_ids": null,
@@ -24,7 +23,11 @@
       "time_section_id": null,
       "show_in_routine_checker": 1,
       "order": 4,
-      "updatedAt": "2025-12-11T02:42:08.388Z"
+      "updatedAt": "2025-12-11T02:42:55.220Z",
+      "repeatPattern": "daily",
+      "repeatConfig": {
+        "interval": 1
+      }
     },
     {
       "id": "6b8d7921-5024-40c0-a9c9-d990c5175389",
@@ -49,11 +52,15 @@
       "time_section_id": null,
       "show_in_routine_checker": 1,
       "order": 0,
-      "updatedAt": "2025-12-11T02:42:30.038Z",
+      "updatedAt": "2025-12-11T02:43:24.678Z",
       "repeatPattern": "daily",
       "repeatConfig": {
         "interval": 1
-      }
+      },
+      "modeId": "5b67d437-77d7-4c81-a6b3-ea07957c9376",
+      "tagIds": [
+        "439b6db5-09f2-4302-b5cb-d29ee5529714"
+      ]
     },
     {
       "id": "1d53e7ce-348c-4b47-b8e2-3f3dd6c6e0d8",
