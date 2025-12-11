@@ -1,43 +1,42 @@
 {
-  "theme": "dark",
   "dashboardLayout": {
     "widgets": [
       {
-        "id": "weather-card",
+        "id": "tasks-summary",
         "order": 0,
         "visible": true
       },
       {
-        "id": "tasks-summary",
+        "id": "routine-summary",
         "order": 1,
         "visible": true
       },
       {
-        "id": "routine-summary",
+        "id": "analyze-summary",
         "order": 2,
         "visible": true
       },
       {
-        "id": "habit-tracker",
+        "id": "weather-card",
         "order": 3,
         "visible": true
       },
       {
-        "id": "analyze-summary",
+        "id": "daily-timeline",
         "order": 4,
         "visible": true
       },
       {
-        "id": "daily-record-input",
+        "id": "habit-tracker",
         "order": 5,
         "visible": true
       },
       {
-        "id": "daily-timeline",
+        "id": "daily-record-input",
         "order": 6,
         "visible": true
       }
     ]
   },
-  "lastSynced": "2025-12-10T06:18:30.973Z"
+  "lastSynced": "2025-12-11T02:36:43.534Z"
 }
