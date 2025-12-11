@@ -87,7 +87,6 @@
     {
       "id": "aa6d064f-d6e4-486d-b888-155b7ca8c96c",
       "title": "夕食",
-      "description": null,
       "project_id": null,
       "mode_id": null,
       "tag_ids": null,
@@ -108,7 +107,11 @@
       "time_section_id": null,
       "show_in_routine_checker": 1,
       "order": 3,
-      "updatedAt": "2025-12-11T02:42:08.388Z"
+      "updatedAt": "2025-12-11T02:42:49.263Z",
+      "repeatPattern": "daily",
+      "repeatConfig": {
+        "interval": 1
+      }
     },
     {
       "id": "8aca4a85-de4a-4c5d-a8c8-8c9e672a8845",
