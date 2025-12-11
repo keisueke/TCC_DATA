@@ -22,7 +22,9 @@
       "order_index": null,
       "due_date": null,
       "time_section_id": null,
-      "show_in_routine_checker": 1
+      "show_in_routine_checker": 1,
+      "order": 4,
+      "updatedAt": "2025-12-11T02:42:08.388Z"
     },
     {
       "id": "6b8d7921-5024-40c0-a9c9-d990c5175389",
@@ -46,7 +48,9 @@
       "order_index": null,
       "due_date": null,
       "time_section_id": null,
-      "show_in_routine_checker": 1
+      "show_in_routine_checker": 1,
+      "order": 0,
+      "updatedAt": "2025-12-11T02:42:08.388Z"
     },
     {
       "id": "1d53e7ce-348c-4b47-b8e2-3f3dd6c6e0d8",
@@ -70,7 +74,9 @@
       "order_index": null,
       "due_date": null,
       "time_section_id": null,
-      "show_in_routine_checker": 1
+      "show_in_routine_checker": 1,
+      "order": 1,
+      "updatedAt": "2025-12-11T02:42:08.388Z"
     },
     {
       "id": "aa6d064f-d6e4-486d-b888-155b7ca8c96c",
@@ -94,7 +100,9 @@
       "order_index": null,
       "due_date": null,
       "time_section_id": null,
-      "show_in_routine_checker": 1
+      "show_in_routine_checker": 1,
+      "order": 3,
+      "updatedAt": "2025-12-11T02:42:08.388Z"
     },
     {
       "id": "8aca4a85-de4a-4c5d-a8c8-8c9e672a8845",
@@ -118,7 +126,9 @@
       "order_index": null,
       "due_date": null,
       "time_section_id": null,
-      "show_in_routine_checker": 1
+      "show_in_routine_checker": 1,
+      "order": 2,
+      "updatedAt": "2025-12-11T02:42:08.388Z"
     }
   ],
   "projects": [],
