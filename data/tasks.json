@@ -1,209 +1,172 @@
 {
   "tasks": [
     {
-      "title": "昼飯",
-      "repeatPattern": "daily",
-      "repeatConfig": {
-        "interval": 1
-      },
-      "estimatedTime": 20,
-      "id": "bb88ac82-c13f-49fa-9340-a236679fbb08",
-      "createdAt": "2025-12-07T04:05:54.112Z",
-      "updatedAt": "2025-12-09T02:03:49.051Z",
-      "order": 2,
-      "tagIds": [
-        "439b6db5-09f2-4302-b5cb-d29ee5529714"
-      ],
-      "startTime": "2025-12-07T05:00:00.000Z",
-      "elapsedTime": 1800,
-      "isRunning": false,
-      "completedAt": "2025-12-07T07:42:49.340Z",
-      "endTime": "2025-12-07T05:30:00.000Z",
-      "modeId": "5b67d437-77d7-4c81-a6b3-ea07957c9376",
-      "timeSectionId": "work-0",
-      "showInRoutineChecker": false
-    },
-    {
-      "title": "昼飯",
-      "tagIds": [
-        "439b6db5-09f2-4302-b5cb-d29ee5529714"
-      ],
-      "repeatPattern": "none",
-      "startTime": "2025-12-06T08:46:00.000Z",
-      "endTime": "2025-12-06T10:46:00.000Z",
-      "estimatedTime": 120,
-      "elapsedTime": 7200,
       "id": "8aca4a85-de4a-4c5d-a8c8-8c9e672a8845",
-      "createdAt": "2025-12-06T08:46:31.991Z",
-      "updatedAt": "2025-12-07T08:47:56.814Z",
-      "order": 1,
-      "skippedAt": "2025-12-07T08:47:56.814Z"
+      "title": "昼飯",
+      "description": null,
+      "project_id": null,
+      "mode_id": null,
+      "tag_ids": null,
+      "goal_id": null,
+      "repeat_pattern": "none",
+      "repeat_config": null,
+      "created_at": "2025-12-11T02:07:45.989Z",
+      "updated_at": "2025-12-11T02:36:43.275Z",
+      "start_time": null,
+      "end_time": null,
+      "elapsed_time": 0,
+      "is_running": 0,
+      "estimated_time": null,
+      "completed_at": null,
+      "skipped_at": null,
+      "order_index": null,
+      "due_date": null,
+      "time_section_id": null,
+      "show_in_routine_checker": 1
     },
     {
-      "title": "夕食",
-      "tagIds": [
-        "439b6db5-09f2-4302-b5cb-d29ee5529714"
-      ],
-      "repeatPattern": "daily",
-      "repeatConfig": {
-        "interval": 1
-      },
-      "startTime": "2025-12-07T08:49:00.000Z",
-      "estimatedTime": 20,
-      "elapsedTime": 360,
       "id": "aa6d064f-d6e4-486d-b888-155b7ca8c96c",
-      "createdAt": "2025-12-06T17:49:17.948+09:00",
-      "updatedAt": "2025-12-09T02:04:55.432Z",
-      "order": 3,
-      "isRunning": false,
-      "endTime": "2025-12-07T08:55:00.000Z",
-      "completedAt": "2025-12-07T08:55:17.851Z",
-      "modeId": "5b67d437-77d7-4c81-a6b3-ea07957c9376",
-      "showInRoutineChecker": false,
-      "timeSectionId": "evening-2"
+      "title": "夕食",
+      "description": null,
+      "project_id": null,
+      "mode_id": null,
+      "tag_ids": null,
+      "goal_id": null,
+      "repeat_pattern": "none",
+      "repeat_config": null,
+      "created_at": "2025-12-11T02:07:45.989Z",
+      "updated_at": "2025-12-11T02:36:43.275Z",
+      "start_time": null,
+      "end_time": null,
+      "elapsed_time": 0,
+      "is_running": 0,
+      "estimated_time": null,
+      "completed_at": null,
+      "skipped_at": null,
+      "order_index": null,
+      "due_date": null,
+      "time_section_id": null,
+      "show_in_routine_checker": 1
     },
     {
-      "title": "朝食",
-      "modeId": "5b67d437-77d7-4c81-a6b3-ea07957c9376",
-      "repeatPattern": "daily",
-      "repeatConfig": {
-        "interval": 1
-      },
-      "estimatedTime": 30,
       "id": "1d53e7ce-348c-4b47-b8e2-3f3dd6c6e0d8",
-      "createdAt": "2025-12-07T18:08:29.787+09:00",
-      "updatedAt": "2025-12-09T02:04:38.001Z",
-      "order": 1,
-      "tagIds": [
-        "439b6db5-09f2-4302-b5cb-d29ee5529714"
-      ],
-      "skippedAt": "2025-12-07T18:08:50.896+09:00",
-      "isRunning": false,
-      "startTime": "2025-12-07T00:30:00.000Z",
-      "completedAt": "2025-12-07T18:31:33.842+09:00",
-      "elapsedTime": 1800,
-      "timeSectionId": "morning-2",
-      "endTime": "2025-12-07T01:00:00.000Z",
-      "showInRoutineChecker": false
+      "title": "朝食",
+      "description": null,
+      "project_id": null,
+      "mode_id": null,
+      "tag_ids": null,
+      "goal_id": null,
+      "repeat_pattern": "none",
+      "repeat_config": null,
+      "created_at": "2025-12-11T02:07:45.989Z",
+      "updated_at": "2025-12-11T02:36:43.275Z",
+      "start_time": null,
+      "end_time": null,
+      "elapsed_time": 0,
+      "is_running": 0,
+      "estimated_time": null,
+      "completed_at": null,
+      "skipped_at": null,
+      "order_index": null,
+      "due_date": null,
+      "time_section_id": null,
+      "show_in_routine_checker": 1
     },
     {
-      "title": "朝準備",
-      "modeId": "33cbc880-b82a-4642-9b7d-2b01044684cf",
-      "tagIds": [
-        "439b6db5-09f2-4302-b5cb-d29ee5529714"
-      ],
-      "repeatPattern": "daily",
-      "repeatConfig": {
-        "interval": 1
-      },
-      "estimatedTime": 10,
-      "timeSectionId": "morning-2",
       "id": "6b8d7921-5024-40c0-a9c9-d990c5175389",
-      "createdAt": "2025-12-07T18:44:47.666+09:00",
-      "updatedAt": "2025-12-09T02:04:31.774Z",
-      "order": 0,
-      "skippedAt": "2025-12-07T18:44:55.507+09:00",
-      "isRunning": false,
-      "startTime": "2025-12-06T23:00:00.000Z",
-      "endTime": "2025-12-06T23:10:00.000Z",
-      "completedAt": "2025-12-07T18:44:59.663+09:00",
-      "elapsedTime": 600,
-      "showInRoutineChecker": true
+      "title": "朝準備",
+      "description": null,
+      "project_id": null,
+      "mode_id": null,
+      "tag_ids": null,
+      "goal_id": null,
+      "repeat_pattern": "none",
+      "repeat_config": null,
+      "created_at": "2025-12-11T02:07:45.989Z",
+      "updated_at": "2025-12-11T02:36:43.275Z",
+      "start_time": null,
+      "end_time": null,
+      "elapsed_time": 0,
+      "is_running": 0,
+      "estimated_time": null,
+      "completed_at": null,
+      "skipped_at": null,
+      "order_index": null,
+      "due_date": null,
+      "time_section_id": null,
+      "show_in_routine_checker": 1
     },
     {
-      "title": "風呂",
-      "modeId": "5b67d437-77d7-4c81-a6b3-ea07957c9376",
-      "tagIds": [
-        "439b6db5-09f2-4302-b5cb-d29ee5529714"
-      ],
-      "repeatPattern": "daily",
-      "repeatConfig": {
-        "interval": 1
-      },
       "id": "8cc593fa-17a8-4c81-b6e7-1d567eda9c7c",
-      "createdAt": "2025-12-07T21:49:24.014+09:00",
-      "updatedAt": "2025-12-09T02:04:19.739Z",
-      "order": 4,
-      "timeSectionId": "evening-2",
-      "skippedAt": "2025-12-07T21:50:15.907+09:00"
+      "title": "風呂",
+      "description": null,
+      "project_id": null,
+      "mode_id": null,
+      "tag_ids": null,
+      "goal_id": null,
+      "repeat_pattern": "none",
+      "repeat_config": null,
+      "created_at": "2025-12-11T02:07:45.989Z",
+      "updated_at": "2025-12-11T02:36:43.275Z",
+      "start_time": null,
+      "end_time": null,
+      "elapsed_time": 0,
+      "is_running": 0,
+      "estimated_time": null,
+      "completed_at": null,
+      "skipped_at": null,
+      "order_index": null,
+      "due_date": null,
+      "time_section_id": null,
+      "show_in_routine_checker": 1
     }
   ],
   "projects": [],
   "modes": [
     {
+      "id": "5b67d437-77d7-4c81-a6b3-ea07957c9376",
       "name": "リラックス",
       "color": "#10B981",
-      "id": "5b67d437-77d7-4c81-a6b3-ea07957c9376",
-      "createdAt": "2025-12-07T09:06:30.827Z"
+      "created_at": "2025-12-11T02:07:45.989Z"
     },
     {
+      "id": "33cbc880-b82a-4642-9b7d-2b01044684cf",
       "name": "イージー",
       "color": "#3B82F6",
-      "id": "33cbc880-b82a-4642-9b7d-2b01044684cf",
-      "createdAt": "2025-12-07T09:06:41.495Z"
+      "created_at": "2025-12-11T02:07:45.989Z"
     },
     {
+      "id": "0c81c159-5c7c-486b-b515-51beb93b39a0",
       "name": "ハード",
       "color": "#EF4444",
-      "id": "0c81c159-5c7c-486b-b515-51beb93b39a0",
-      "createdAt": "2025-12-07T09:06:48.671Z"
+      "created_at": "2025-12-11T02:07:45.989Z"
     },
     {
+      "id": "154f4d0e-f031-4640-8015-712fdf0b0118",
       "name": "オーガナイズ",
       "color": "#F97316",
-      "id": "154f4d0e-f031-4640-8015-712fdf0b0118",
-      "createdAt": "2025-12-07T09:07:15.856Z"
+      "created_at": "2025-12-11T02:07:45.989Z"
     }
   ],
   "tags": [
     {
-      "name": "本業",
       "id": "b7902fc0-cf47-4566-a342-c443aa0e7d20",
-      "createdAt": "2025-12-07T04:06:23.414Z"
+      "name": "本業",
+      "color": null,
+      "created_at": "2025-12-11T02:07:45.989Z"
     },
     {
-      "name": "副業",
       "id": "ed41fca0-0c9b-4191-ae27-1b7a9460fb76",
-      "createdAt": "2025-12-07T04:06:29.113Z"
+      "name": "副業",
+      "color": null,
+      "created_at": "2025-12-11T02:07:45.989Z"
     },
     {
-      "name": "プライベート",
       "id": "439b6db5-09f2-4302-b5cb-d29ee5529714",
-      "createdAt": "2025-12-07T04:06:34.880Z"
+      "name": "プライベート",
+      "color": null,
+      "created_at": "2025-12-11T02:07:45.989Z"
     }
   ],
-  "subTasks": [
-    {
-      "taskId": "6b8d7921-5024-40c0-a9c9-d990c5175389",
-      "title": "髭剃り",
-      "order": 0,
-      "id": "73601067-4917-4a59-b972-daf652d3e446",
-      "createdAt": "2025-12-07T10:27:26.916Z",
-      "updatedAt": "2025-12-10T06:18:22.115Z"
-    },
-    {
-      "taskId": "6b8d7921-5024-40c0-a9c9-d990c5175389",
-      "title": "洗顔",
-      "order": 1,
-      "id": "61b035a5-2afb-4557-96e2-2feb143c8d93",
-      "createdAt": "2025-12-07T10:27:43.754Z",
-      "updatedAt": "2025-12-10T06:18:25.340Z"
-    },
-    {
-      "taskId": "6b8d7921-5024-40c0-a9c9-d990c5175389",
-      "title": "歯磨き",
-      "order": 2,
-      "id": "85399f04-a9bf-4d97-9b01-81a819987454",
-      "createdAt": "2025-12-07T10:27:50.469Z",
-      "updatedAt": "2025-12-07T10:27:50.469Z"
-    },
-    {
-      "taskId": "6b8d7921-5024-40c0-a9c9-d990c5175389",
-      "title": "体重計測",
-      "order": 3,
-      "id": "555351cc-88c0-43c3-9aa7-03db7d24c825",
-      "createdAt": "2025-12-07T10:32:05.747Z",
-      "updatedAt": "2025-12-10T06:18:31.096Z"
-    }
-  ]
+  "subTasks": []
 }
